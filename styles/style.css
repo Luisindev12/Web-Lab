@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
+
+body {
+    font-family:"Bebas Neues", sans-serif;
+
+}
+#NavBar a {
+    font-size: 18px;
+    font-weight: semi-bold;
+    color: #9f2180;
+    
+    
+}
+#NavBar button {
+    font-size: 18px;
+    font-weight: bold;
+}
+.carousel-inner{
+    max-height: 39rem;
+}
+#search {
+    border-radius: 20px;
+    border-color: #9f2180;
+
+}
+  .parrafos span {
+    font-family:Arial, Helvetica, sans-serif ;
+    color: #9f2180;
+    font-weight: bold;
+  }
+  .parrafos {
+    text-align: justify;
+  }
+  .costos {
+    text-align: center;
+    color: #9f2180;
+    font-weight: bold;
+  }
+  #footer a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+  }
+ .contenedor-iconos i{
+    font-size: 2rem;
+    margin-left: 2rem;
+ }
+.navbar-toggler {
+    font-size: 2rem;
+ }
+ .container a {
+    font-size: large;
+    font-weight: bold;
+    margin-left: 2rem;
+    color: #9f2180;
+ }
+ .inputs{
+  border: 0;
+  align-items: center;
+ }
+ .ph-center {
+  height: 40px;
+}
+.ph-center::-webkit-input-placeholder {
+  text-align: center;
+  line-height: 50px;/* Centrado vertical */
+}
+
+.buttondrop{
+  border-radius: 20px;
+  border-color: #9f2180;
+  color:#9f2180;
+}
